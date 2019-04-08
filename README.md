@@ -7,4 +7,4 @@ Please run the following command to reproduce it.
 > npm start
 ```
 
-The dayjs file for the moment replacement is in '/src/initializeDayjs.js' file.
+The dayjs file for the moment replacement is in [initializeDayjs.js](https://github.com/yongdamsh/dayjs-reproduce/blob/master/src/initializeDayjs.js) file.
